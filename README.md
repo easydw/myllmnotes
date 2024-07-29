@@ -2,8 +2,7 @@
 
 Welcome to my notes repository where I document my journey through learning and experimenting with large language models.
 
-书生大模型实战营
-
+书生大模型实战营 GitHub 仓库（https://github.com/InternLM/Tutorial）
 
 
 
